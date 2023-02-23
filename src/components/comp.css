@@ -1,0 +1,25 @@
+.card{
+    /* border: solid red; */
+    height: 300px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin: 45px;
+}
+.color{
+    height: 80%;
+    width: 100%;
+    /* border: solid green; */
+}
+.text{
+    padding: 5px 10px;
+}
+p{
+    font-size: smaller;
+    font-weight: bolder;
+}
+.hex{
+    font-size: large;
+    font-weight: bolder;
+}
